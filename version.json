@@ -1,7 +1,7 @@
 {
-  "build": 37,
+  "build": 38,
   "date": "17.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-37/kgres-plan-2026-10-17-37.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-37/kgres-plan-2026-10-17-37.html",
-  "notes": "Фото объектов из актов: 163 фото на 77 объектов, кнопка «Фото» в карточке"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-38/kgres-plan-2026-10-17-38.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-38/kgres-plan-2026-10-17-38.html",
+  "notes": "Сводка всех работ и версии актов: data/acts/sources.json, версия акта в «Паспорте объекта»"
 }
