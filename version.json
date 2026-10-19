@@ -1,7 +1,7 @@
 {
-  "build": 57,
+  "build": 58,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-57/kgres-plan-2026-10-19-57.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-57/kgres-plan-2026-10-19-57.html",
-  "notes": "Двери и ворота моделей — открытыми (распашные наружу, откатные вбок, рулонные вверх), чтобы аватар проходил в здания; вырез подложки только над полами модели — без провалов между стеной и краем пола; в прогулке над вырезом без пола держит земля; проверка проходимости — по каждой модели раз, с подсчётом пустот"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-58/kgres-plan-2026-10-19-58.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-58/kgres-plan-2026-10-19-58.html",
+  "notes": "Земля у основания зданий выводится на отметку земли модели (планировка вокруг здания, без щелей и утопленных стен); ЦЦР — отметка земли по рельефу; вертикальные лестницы, стремянки и ходовые лестницы труб — проходимы в прогулке"
 }
