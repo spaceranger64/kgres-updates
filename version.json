@@ -1,7 +1,7 @@
 {
-  "build": 54,
+  "build": 56,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-54/kgres-plan-2026-10-19-54.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-54/kgres-plan-2026-10-19-54.html",
-  "notes": "Основные средства: таблица 936 позиций с поиском по наименованию и инв. №, из меню и карточки; подсветка связанных объектов (раньше/после/связан); тени — отдельной кнопкой, по умолчанию выключены, с экономией для старых телефонов; лист PDF по объекту"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-56/kgres-plan-2026-10-19-56.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-56/kgres-plan-2026-10-19-56.html",
+  "notes": "Проверка без интернета: ссылка на разрез теперь скрытая — ждём её наличия, а не видимости"
 }
