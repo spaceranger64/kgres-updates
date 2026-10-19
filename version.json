@@ -1,7 +1,7 @@
 {
-  "build": 59,
+  "build": 60,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-59/kgres-plan-2026-10-19-59.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-59/kgres-plan-2026-10-19-59.html",
-  "notes": "Планировка у зданий: исправлен расчёт пятна (радиусы цилиндров), на склонах с перепадом больше 2 м — без автоматической планировки; отметка земли ЦЦР — как согласовано (119,67)"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-60/kgres-plan-2026-10-19-60.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-60/kgres-plan-2026-10-19-60.html",
+  "notes": "ОВК: дверные проёмы из коридора в помещения и в лестничные клетки на каждом этаже; проверка проходимости — по каждому полу"
 }
