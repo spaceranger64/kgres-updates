@@ -1,7 +1,7 @@
 {
-  "build": 68,
+  "build": 70,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-68/kgres-plan-2026-10-19-68.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-68/kgres-plan-2026-10-19-68.html",
-  "notes": "ЛБК: двери лестничной клетки ЛК-1 на этажах — у этажной площадки, а не над шахтой лифта"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-70/kgres-plan-2026-10-19-70.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-70/kgres-plan-2026-10-19-70.html",
+  "notes": "Акты: данные извлечены заново из окончательных редакций (волна правок 19.10.2026) — паспорта, уровни, ведомости отходов, оборудование, коммуникации, чертежи; версии актов в sources.json"
 }
