@@ -1,7 +1,7 @@
 {
-  "build": 70,
+  "build": 72,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-70/kgres-plan-2026-10-19-70.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-70/kgres-plan-2026-10-19-70.html",
-  "notes": "Акты: данные извлечены заново из окончательных редакций (волна правок 19.10.2026) — паспорта, уровни, ведомости отходов, оборудование, коммуникации, чертежи; версии актов в sources.json"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-72/kgres-plan-2026-10-19-72.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-72/kgres-plan-2026-10-19-72.html",
+  "notes": "Аудит коллизий и оборудование актов в моделях"
 }
