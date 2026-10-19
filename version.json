@@ -1,7 +1,7 @@
 {
-  "build": 49,
+  "build": 50,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-49/kgres-plan-2026-10-19-49.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-49/kgres-plan-2026-10-19-49.html",
-  "notes": "Текстуры материалов по фото объекта: tools/tex-tile.py (цвет и зерно с фото, швы в метрах), data/objects/<id>/tex.json, наложение в приложении; образец — ЛБК; README"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-50/kgres-plan-2026-10-19-50.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-50/kgres-plan-2026-10-19-50.html",
+  "notes": "Текстуры по фото: 72 объекта, 148 плиток (цвет, пятна и зерно — с фото объекта, швы в метрах); Т-3 и Т-200 без своих фото — не включены"
 }
