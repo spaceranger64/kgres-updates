@@ -1,7 +1,7 @@
 {
-  "build": 60,
+  "build": 61,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-60/kgres-plan-2026-10-19-60.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-60/kgres-plan-2026-10-19-60.html",
-  "notes": "ОВК: дверные проёмы из коридора в помещения и в лестничные клетки на каждом этаже; проверка проходимости — по каждому полу"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-61/kgres-plan-2026-10-19-61.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-61/kgres-plan-2026-10-19-61.html",
+  "notes": "Двери из рядов полотен (cols) и ворота-каркасы (beams) тоже открываются; приямок с лестницей у двери насосной подпитки; нижние марши наружных лестниц ЭСГ бл. 3; открытые сверху приямки и заглублённые помещения — с вырезом подложки; правки деталей моделей (patch) и явные вырезы (cut) в сборке"
 }
