@@ -1,7 +1,7 @@
 {
-  "build": 56,
+  "build": 57,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-56/kgres-plan-2026-10-19-56.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-56/kgres-plan-2026-10-19-56.html",
-  "notes": "Проверка без интернета: ссылка на разрез теперь скрытая — ждём её наличия, а не видимости"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-57/kgres-plan-2026-10-19-57.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-57/kgres-plan-2026-10-19-57.html",
+  "notes": "Двери и ворота моделей — открытыми (распашные наружу, откатные вбок, рулонные вверх), чтобы аватар проходил в здания; вырез подложки только над полами модели — без провалов между стеной и краем пола; в прогулке над вырезом без пола держит земля; проверка проходимости — по каждой модели раз, с подсчётом пустот"
 }
