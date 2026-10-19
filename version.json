@@ -1,7 +1,7 @@
 {
-  "build": 44,
+  "build": 47,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-44/kgres-plan-2026-10-19-44.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-44/kgres-plan-2026-10-19-44.html",
-  "notes": "Уточнена привязка плана ПКЭИ; контуры зданий, ГК/172А, 166, ЛБК, эстакады, след ДТ-1"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-47/kgres-plan-2026-10-19-47.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-47/kgres-plan-2026-10-19-47.html",
+  "notes": "Проверка HTML: снимок экрана ждёт до 3 минут (кадр на машине CI без видеокарты рисуется дольше 30 с)"
 }
