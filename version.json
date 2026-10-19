@@ -1,7 +1,7 @@
 {
-  "build": 38,
+  "build": 39,
   "date": "17.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-38/kgres-plan-2026-10-17-38.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-38/kgres-plan-2026-10-17-38.html",
-  "notes": "Сводка всех работ и версии актов: data/acts/sources.json, версия акта в «Паспорте объекта»"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-39/kgres-plan-2026-10-17-39.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-39/kgres-plan-2026-10-17-39.html",
+  "notes": "Рисование на плане и доработка котлованов"
 }
