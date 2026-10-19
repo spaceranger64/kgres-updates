@@ -1,7 +1,7 @@
 {
-  "build": 53,
+  "build": 54,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-53/kgres-plan-2026-10-19-53.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-53/kgres-plan-2026-10-19-53.html",
-  "notes": "Отметки уровней — выносками с раздвижкой подписей, у здания; карточка объекта и окошко элемента — внизу слева, со сворачиванием; значок — прежний рисунок, раскрашенный (полосы труб, здания, линия земли, полупрозрачные подземные части); круговое меню по удержанию 1 с"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-54/kgres-plan-2026-10-19-54.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-54/kgres-plan-2026-10-19-54.html",
+  "notes": "Основные средства: таблица 936 позиций с поиском по наименованию и инв. №, из меню и карточки; подсветка связанных объектов (раньше/после/связан); тени — отдельной кнопкой, по умолчанию выключены, с экономией для старых телефонов; лист PDF по объекту"
 }
