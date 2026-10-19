@@ -1,7 +1,7 @@
 {
-  "build": 39,
+  "build": 40,
   "date": "17.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-39/kgres-plan-2026-10-17-39.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-39/kgres-plan-2026-10-17-39.html",
-  "notes": "Рисование на плане и доработка котлованов"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-40/kgres-plan-2026-10-17-40.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-40/kgres-plan-2026-10-17-40.html",
+  "notes": "Вход по паролю и шифрование данных; смена пароля для всех приложений"
 }
