@@ -1,7 +1,7 @@
 {
-  "build": 47,
+  "build": 48,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-47/kgres-plan-2026-10-19-47.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-47/kgres-plan-2026-10-19-47.html",
-  "notes": "Проверка HTML: снимок экрана ждёт до 3 минут (кадр на машине CI без видеокарты рисуется дольше 30 с)"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-48/kgres-plan-2026-10-19-48.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-48/kgres-plan-2026-10-19-48.html",
+  "notes": "Рисование: инструмент выбирается явно (повторное нажатие снимает), без инструмента — вращение; перекрестие не остаётся после выхода; размеры фигур у пальца; правка и удаление подписей касанием; «Стереть всё» (рисунки, текст, котлованы). Слои при запуске по согласованному набору. Снято несуществующее здание З-049. Переходной мост ЛБК — у западного фасада, западнее силосов СНКВ (по снимку и Прил. 1)"
 }
