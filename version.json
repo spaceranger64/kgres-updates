@@ -1,7 +1,7 @@
 {
-  "build": 73,
+  "build": 74,
   "date": "19.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-73/kgres-plan-2026-10-19-73.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-73/kgres-plan-2026-10-19-73.html",
-  "notes": "Замечания к сборке 72: ЭФ-2 в линию с ЭФ-1, ЛЭП, ТДО и шахты ХВ, газоходы бл. 4–7, коммуникации по сводному акту, акты Виктора, детальные модели вместо призм, двери, эстакады, ферма Ф1, портал ВО, интерфейс"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-74/kgres-plan-2026-10-19-74.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-74/kgres-plan-2026-10-19-74.html",
+  "notes": "Исправления по аудиту коммуникаций: правило отметок сетей, статусы и раскраска, колодцы, негабарит с тоннелями, недостающие сети по актам; газоходы без подмеса цвета категории"
 }
