@@ -1,7 +1,7 @@
 {
-  "build": 75,
+  "build": 77,
   "date": "20.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-75/kgres-plan-2026-10-20-75.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-75/kgres-plan-2026-10-20-75.html",
-  "notes": "Сборка волны 20.10: 3D-схемы перерисованы, деревья, вырез подложки, трассы, люки, камера/меню, проходимость"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-77/kgres-plan-2026-10-20-77.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-77/kgres-plan-2026-10-20-77.html",
+  "notes": "CI: файлы сборки передаются через временный релиз вместо artifacts (хранилище Actions переполнено)"
 }
