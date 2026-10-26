@@ -1,7 +1,7 @@
 {
-  "build": 77,
+  "build": 85,
   "date": "20.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-77/kgres-plan-2026-10-20-77.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-77/kgres-plan-2026-10-20-77.html",
-  "notes": "CI: файлы сборки передаются через временный релиз вместо artifacts (хранилище Actions переполнено)"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-85/kgres-plan-2026-10-20-85.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-85/kgres-plan-2026-10-20-85.html",
+  "notes": "Сборка: правки по замечаниям и ответам 26.10 (ВО, тракт, УП-1, УП-2, ворота, материалы лент, интерфейс, сети, прочие объекты, УГВ, «Я здесь»; деревья убраны)"
 }
