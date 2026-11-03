@@ -1,7 +1,7 @@
 {
-  "build": 90,
+  "build": 91,
   "date": "20.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-90/kgres-plan-2026-10-20-90.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-90/kgres-plan-2026-10-20-90.html",
-  "notes": "Сборка: эстакады без разрывов, ворота ВО, рельеф у подъёмника и холм x −440, пульсация этапов, шапка панели прокручивается, техника в Процессе демонтажа и ползунок скорости"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-91/kgres-plan-2026-10-20-91.apk",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-91/kgres-plan-2026-10-20-91.html",
+  "notes": "Рабочая версия: скрыты «Не нанесены на модель» и «Источники», плитка объектов открывает список, подсказки «палец или левая кнопка мыши»; пересечения техники в рабочей сборке"
 }
