@@ -1,7 +1,7 @@
 {
-  "build": 92,
+  "build": 93,
   "date": "20.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-92/",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-92/",
-  "notes": "Исправлены пересечения техники в «Процессе демонтажа»; Уточнено наполнение зданий тракта (лестницы, лазы, стремянки); Плитка «объектов демонтажа» открывает список объектов; Повышена защита запомненного входа; Исправлены ошибки интерфейса и тексты карточек"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-93/",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-93/",
+  "notes": "Вид из-под земли: затемнение, серый фон, слой грунта, шкала глубины; Новый радар в прогулке — только здания рядом и сети под землёй; Уточнено оборудование тяжелее 200 кг в зданиях; Исправлены текстуры материалов; Уточнено наполнение зданий тракта"
 }
