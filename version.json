@@ -1,7 +1,7 @@
 {
-  "build": 91,
+  "build": 92,
   "date": "20.10.2026",
-  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-91/kgres-plan-2026-10-20-91.apk",
-  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-91/kgres-plan-2026-10-20-91.html",
-  "notes": "Рабочая версия: скрыты «Не нанесены на модель» и «Источники», плитка объектов открывает список, подсказки «палец или левая кнопка мыши»; пересечения техники в рабочей сборке"
+  "apk": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-92/",
+  "html": "https://github.com/spaceranger64/Claude-Code-123/releases/download/build-92/",
+  "notes": "Исправлены пересечения техники в «Процессе демонтажа»; Уточнено наполнение зданий тракта (лестницы, лазы, стремянки); Плитка «объектов демонтажа» открывает список объектов; Повышена защита запомненного входа; Исправлены ошибки интерфейса и тексты карточек"
 }
